@@ -1,4 +1,5 @@
 
-<p align="center">
-  👋 Hi, My name is HELLORPG.
+<p align=left>
+  👋 Hi, My name is HELLORPG. <br>
+  📚 My current work focuses on Computer Vision. <br>
 </p>
