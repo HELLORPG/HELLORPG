@@ -5,7 +5,6 @@
   🆒 Hello World! <br>
 </p>
 <br>
-<p align=left>
-  🏫 I’m a student in [MCG group](http://mcg.nju.edu.cn/index.html), [Department of Computer Science](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm). <br>
-  ✉️ Email: ruopenggao@gmail.com <br>
-</p>
+
+🏫 I’m a student in [MCG Group](http://mcg.nju.edu.cn/index.html), [Department of Computer Science](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm). <br>
+✉️ Email: ruopenggao@gmail.com <br>
