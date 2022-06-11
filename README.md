@@ -25,5 +25,5 @@
 
 <h3>Credit to</h3>
 <ul>
-<li> <a href="https://github.com/jwenjian/visitor-badge">Vistor Badge</a>
+<li> <a href="https://github.com/jwenjian/visitor-badge">Visitor Badge</a>
 </ul>
