@@ -14,6 +14,7 @@
 <!-- Introduction -->
 <p>
   <em><strong> I'm a Ph.D student in <a href="http://mcg.nju.edu.cn/index.html">MCG Group</a>, <a href="https://cs.nju.edu.cn/">Computer Science</a>, <a href="https://www.nju.edu.cn/main.htm">Nanjing University</a>, under the supervision of <a href="https://wanglimin.github.io/">Limin Wang</a>.</strong></em> 
+  <em>I also spent wonderful years as an undergraduate in Computer Science, Nanjing University and received my Bachelor of Science in June, 2021.</em>
 </p>
 
 📚 My current work focuses on <b>Computer Vision</b>. <br>
