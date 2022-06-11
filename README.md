@@ -19,9 +19,5 @@
   <em>My research interests include <strong>Computer Vision and Deep Learning</strong>.</em>
 </p>
 
-🆒 Hello World! <br>
-
-<br>
-✉️ Email: ruopenggao@gmail.com <br>
 
 
