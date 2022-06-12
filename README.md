@@ -22,7 +22,7 @@
 
 
 <!-- Contact -->
-<h3>Get In Touch</h3>
+<h3>Get In Touch :mailbox:</h3>
 <ul>
   <li> Gmail: <a href="mailto:ruopenggao@gmail.com">ruopenggao@gmail.com</a>
 </ul>
