@@ -21,6 +21,13 @@
 </p>
 
 
+<!-- Contact -->
+<h3>Get In Touch</h3>
+<ul>
+  <li> Gmail: <a href="mailto:ruopenggao@gmail.com">ruopenggao@gmail.com</a>
+</ul>
+
+
 <!-- Friends' homepage -->
 <h3>Friends</h3>
 <a href="http://www.xuyangcao.com">Xuyang Cao</a>
@@ -28,5 +35,5 @@
 
 <h3>Credit to :star2:</h3>
 <ul>
-<li> <a href="https://github.com/jwenjian/visitor-badge">Visitor Badge</a>
+  <li> <a href="https://github.com/jwenjian/visitor-badge">Visitor Badge</a>
 </ul>
