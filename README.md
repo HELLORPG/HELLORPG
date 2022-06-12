@@ -1,6 +1,7 @@
 <!-- Greeting -->
 <h2><em> Hi, I'm Ruopeng Gao. :wave: </em></h2>
 
+
 <!-- Personal Badges -->
 <!-- ![sumy7](https://visitor-badge.glitch.me/badge?page_id=HELLORPG.profile)
 <!-- 这部分统计仅从添加了这条语句之后，第一次访问开始计数 -->
@@ -20,8 +21,10 @@
 </p>
 
 
+<!-- Friends' homepage -->
 <h3>Friends</h3>
 <a href="http://www.xuyangcao.com">Xuyang Cao</a>
+
 
 <h3>Credit to :star2:</h3>
 <ul>
