@@ -29,7 +29,7 @@
 
 
 <!-- Friends' homepage -->
-<h3>Friends</h3>
+<h3>Friends :smiley:</h3>
 <a href="http://www.xuyangcao.com">Xuyang Cao</a>
 
 
