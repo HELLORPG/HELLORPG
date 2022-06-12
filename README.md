@@ -23,7 +23,7 @@
 <h3>Friends</h3>
 <a href="http://www.xuyangcao.com">Xuyang Cao</a>
 
-<h3>Credit to 🌟</h3>
+<h3>Credit to :star2:</h3>
 <ul>
 <li> <a href="https://github.com/jwenjian/visitor-badge">Visitor Badge</a>
 </ul>
