@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h2><em> Hi, I'm Ruopeng Gao（高若朋）. :wave: </em></h2>
+<h2><em> Hi, I'm Ruopeng Gao. :wave: </em></h2>
 
 
 <!-- Personal Badges -->
