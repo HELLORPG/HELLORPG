@@ -37,6 +37,16 @@
 </ul>
 
 
+<!-- Work Experiences -->
+<h3>Work Experiences</h3>
+<ul>
+  <li>
+    Mini-apps developer at PCG, Tencent.
+    <div align="right">-- Summer 2019.</div>
+  </li>
+</ul>
+
+
 <!-- Contact -->
 <h3>Get In Touch :mailbox:</h3>
 <ul>
