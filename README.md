@@ -26,13 +26,13 @@
 <!-- Research Experiences -->
 <h3>Research Experiences :mortar_board:</h3>
 <ul>
-  <li> 
-    Working on Propagation of the Effects after Code Commits, at Nanjing University, supervised by <a href="https://cs.nju.edu.cn/wangliang/index.htm">Prof. Liang Wang</a>. <br>
-    <div align="right">-- Mar 2019 to May 2021.</div> 
-  </li>
   <li>
     Focus on Computer Vision, at Nanjing University, supervised by <a href="https://wanglimin.github.io/">Prof. Limin Wang</a>. <br>
     <div align="right">-- Aug 2020 to Present.</div>
+  </li>
+  <li> 
+    Working on Propagation of the Effects after Code Commits, at Nanjing University, supervised by <a href="https://cs.nju.edu.cn/wangliang/index.htm">Prof. Liang Wang</a>. <br>
+    <div align="right">-- Mar 2019 to May 2021.</div> 
   </li>
 </ul>
 
