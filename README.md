@@ -47,6 +47,10 @@
 </ul>
 
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HELLORPG)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HELLORPG&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 <!-- Contact -->
 <h3>Get In Touch :mailbox:</h3>
 <ul>
