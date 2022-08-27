@@ -5,9 +5,10 @@
 <!-- Personal Badges -->
 <!-- ![sumy7](https://visitor-badge.glitch.me/badge?page_id=HELLORPG.profile)
 <!-- 这部分统计仅从添加了这条语句之后，第一次访问开始计数 -->
-[![Linkedin](https://img.shields.io/badge/-Ruopeng_Gao-blue?style=flat&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/ruopeng-gao-590500203/)](https://www.linkedin.com/in/ruopeng-gao-590500203/)
-[![Gmail](https://img.shields.io/badge/-Ruopeng_Gao-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ruopenggao@gmail.com)
-[![Profile](https://visitor-badge.glitch.me/badge?page_id=HELLORPG.profile&left_text=Profile%20Visitors)](https://github.com/HELLORPG)
+[![Homepage](https://img.shields.io/badge/Ruopeng%20Gao-Homepage-%234994c4?style=flat-square)](http://ruopenggao.com/)
+[![Gmail](https://img.shields.io/badge/-Ruopeng_Gao-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruopenggao@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Ruopeng_Gao-blue?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/ruopeng-gao-590500203/)](https://www.linkedin.com/in/ruopeng-gao-590500203/)
+[![Profile](https://visitor-badge.glitch.me/badge?page_id=HELLORPG.profile&left_text=Profile%20Visitors?)](https://github.com/HELLORPG)
 [![GitHub](https://img.shields.io/github/followers/HELLORPG?label=follow&style=social)](https://github.com/HELLORPG)
 <!-- ![](https://komarev.com/ghpvc/?username=HELLORPG&style=flat) -->
 
