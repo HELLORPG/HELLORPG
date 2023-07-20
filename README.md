@@ -23,6 +23,23 @@
   <em>My research interests include <strong>Computer Vision and Deep Learning</strong>.</em>
 </p>
 
+<h3>Publications :memo:</h3>
+<ul>
+  <li>
+    <em><strong>MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking</strong></em>
+    <br>
+    <strong>Ruopeng Gao</strong>, Limin Wang.
+    <br>
+    in IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
+  </li>
+  <li>
+    <em><strong><a href="https://arxiv.org/abs/2209.13959">Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding</a></strong></em>
+    <br>
+    Fengyuan Shi, <strong>Ruopeng Gao</strong>, Weilin Huang, Limin Wang.
+    <br>
+    in arXiv:2209.13959, under review.
+  </li>
+</ul>
 
 <!-- Research Experiences -->
 <h3>Research Experiences :mortar_board:</h3>
