@@ -26,7 +26,7 @@
 <h3>Publications :memo:</h3>
 <ul>
   <li>
-    <em><strong>MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking</strong></em>
+    <em><strong><a href="https://arxiv.org/abs/2307.15700">MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking</a></strong></em>
     <br>
     <strong>Ruopeng Gao</strong>, Limin Wang.
     <br>
