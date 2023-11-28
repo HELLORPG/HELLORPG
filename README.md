@@ -8,9 +8,9 @@
 [![Homepage](https://img.shields.io/badge/Ruopeng%20Gao-Homepage-%234994c4?style=flat-square)](http://ruopenggao.com/)
 [![Gmail](https://img.shields.io/badge/-Ruopeng_Gao-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruopenggao@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Ruopeng_Gao-blue?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/ruopeng-gao-590500203/)](https://www.linkedin.com/in/ruopeng-gao-590500203/)
-[![Profile](https://visitor-badge.glitch.me/badge?page_id=HELLORPG.profile&left_text=Profile%20Visitors)](https://github.com/HELLORPG)
 [![GitHub](https://img.shields.io/github/followers/HELLORPG?label=follow&style=social)](https://github.com/HELLORPG)
 <!-- ![](https://komarev.com/ghpvc/?username=HELLORPG&style=flat) -->
+<!-- [![Profile](https://visitor-badge.glitch.me/badge?page_id=HELLORPG.profile&left_text=Profile%20Visitors)](https://github.com/HELLORPG) -->
 
 
 <!-- Introduction -->
@@ -20,24 +20,24 @@
   <br>
 </p>
 <p>
-  <em>My research interests include <strong>Computer Vision and Deep Learning</strong>.</em>
+  <em>My research interests include <strong>Computer Vision and Deep Learning</strong>, primarily focus on <strong>Multiple Object Tracking</strong>.</em>
 </p>
 
 <h3>Publications :memo:</h3>
 <ul>
   <li>
-    <em><strong><a href="https://arxiv.org/abs/2307.15700">MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking</a></strong></em>
+    <em><strong><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Gao_MeMOTR_Long-Term_Memory-Augmented_Transformer_for_Multi-Object_Tracking_ICCV_2023_paper.html">MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking</a></strong></em>
     <br>
     <strong>Ruopeng Gao</strong>, Limin Wang.
     <br>
     in IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
   </li>
   <li>
-    <em><strong><a href="https://arxiv.org/abs/2209.13959">Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding</a></strong></em>
+    <em><strong><a href="https://ieeexplore.ieee.org/abstract/document/10298801">Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding</a></strong></em>
     <br>
     Fengyuan Shi, <strong>Ruopeng Gao</strong>, Weilin Huang, Limin Wang.
     <br>
-    in arXiv:2209.13959, under review.
+    in IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>).
   </li>
 </ul>
 
