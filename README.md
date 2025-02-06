@@ -79,7 +79,8 @@
 <!-- Contact -->
 <h3>Get In Touch :mailbox:</h3>
 <ul>
-  <li> Gmail: <a href="mailto:ruopenggao@gmail.com">ruopenggao@gmail.com</a>
+  <li> Gmail (recommended): <a href="mailto:ruopenggao@gmail.com">ruopenggao@gmail.com</a>
+  <li> Edu: <a href="mailto:ruopenggao@smail.nju.edu.cn">ruopenggao@smail.nju.edu.cn</a></li>
 </ul>
 
 
