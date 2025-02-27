@@ -28,9 +28,9 @@
   <li>
     <em><strong><a href="https://arxiv.org/abs/2403.16848">Multiple Object Tracking as ID Prediction</a></strong></em>
     <br>
-    <strong>Ruopeng Gao</strong>, Yijun Zhang, Limin Wang.
+    <strong>Ruopeng Gao</strong>, Ji Qi, Limin Wang.
     <br>
-    Tech report, Mar. 2024.
+    in IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.
   </li>
   <li>
     <em><strong><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Gao_MeMOTR_Long-Term_Memory-Augmented_Transformer_for_Multi-Object_Tracking_ICCV_2023_paper.html">MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking</a></strong></em>
