@@ -5,7 +5,9 @@
 <!-- Personal Badges -->
 <!-- ![sumy7](https://visitor-badge.glitch.me/badge?page_id=HELLORPG.profile)
 <!-- 这部分统计仅从添加了这条语句之后，第一次访问开始计数 -->
+<!-- https://github.com/dexhunter/google-scholar-badge?tab=readme-ov-file -->
 [![Homepage](https://img.shields.io/badge/Ruopeng%20Gao-Homepage-%234994c4?style=flat-square)](http://ruopenggao.com/)
+[![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=VNSP2hMAAAAJ&style=flat-square)](https://scholar.google.com.hk/citations?user=VNSP2hMAAAAJ)
 [![Gmail](https://img.shields.io/badge/-Ruopeng_Gao-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruopenggao@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Ruopeng_Gao-blue?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/ruopeng-gao-590500203/)](https://www.linkedin.com/in/ruopeng-gao-590500203/)
 [![GitHub](https://img.shields.io/github/followers/HELLORPG?label=follow&style=social)](https://github.com/HELLORPG)
