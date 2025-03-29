@@ -28,6 +28,13 @@
 <h3>Publications :memo:</h3>
 <ul>
   <li>
+    <em><strong><a href="https://arxiv.org/abs/2503.12562">History-Aware Transformation of ReID Features for Multiple Object Tracking</a></strong></em>
+    <br>
+    <strong>Ruopeng Gao</strong>, Yuyao Wang, Chunxu Liu, Limin Wang.
+    <br>
+    Tech report, 2025.
+  </li>
+  <li>
     <em><strong><a href="https://arxiv.org/abs/2403.16848">Multiple Object Tracking as ID Prediction</a></strong></em>
     <br>
     <strong>Ruopeng Gao</strong>, Ji Qi, Limin Wang.
