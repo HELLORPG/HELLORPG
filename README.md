@@ -22,7 +22,8 @@
   <br>
 </p>
 <p>
-  <em>My research interests include <strong>Computer Vision and Deep Learning</strong>, primarily focus on <strong>Multiple Object Tracking</strong>.</em>
+  <em>My research interests include <strong>Computer Vision and Deep Learning</strong>. <br>
+  :pushpin: Currently, <strong>I'm seeking research intern opportunities focused on multimodal or generative topics</strong>.</em>
 </p>
 
 <h3>Publications :memo:</h3>
