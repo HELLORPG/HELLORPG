@@ -18,12 +18,13 @@
 <!-- Introduction -->
 <p>
   <em><strong> I'm a Ph.D student in <a href="http://mcg.nju.edu.cn/index.html">MCG Group</a>, <a href="https://cs.nju.edu.cn/">Computer Science</a>, <a href="https://www.nju.edu.cn/main.htm">Nanjing University</a>, under the supervision of <a href="https://wanglimin.github.io/">Prof. Limin Wang</a>.</strong></em> 
-  <em>I also spent wonderful years as an undergraduate in Computer Science, Nanjing University and received my Bachelor of Science in June, 2021.</em>
+  <em>I'm very glad that I'm currently doing a research internship at <a href="https://www.bytedance.com/en/">ByteDance</a>.</em>
+  <em>Before that, I also spent wonderful years as an undergraduate in the Department of Computer Science and Technology, Nanjing University, and received my Bachelor of Science in Jun 2021.</em>
   <br>
 </p>
 <p>
-  <em>My research interests include <strong>Computer Vision and Deep Learning</strong>. <br>
-  :pushpin: Currently, <strong>I'm seeking research intern opportunities focused on multimodal or generative topics</strong>.</em>
+  <em>My research interests include <strong>Computer Vision and Deep Learning</strong>. I have a long-standing focus on Multiple Object Tracking, and my current work explores Multimodal Learning and Generative Models.</em><br>
+<!--   :pushpin: Currently, <strong>I'm seeking research intern opportunities focused on multimodal or generative topics</strong>.</em> -->
 </p>
 
 <h3>Publications :memo:</h3>
@@ -75,6 +76,10 @@
 <!-- Work Experiences -->
 <h3>Work Experiences</h3>
 <ul>
+  <li>
+    Research Intern, ByteDance.
+    <div align="right">-- Aug 2025 - Present.</div>
+  </li>
   <li>
     Mini-apps developer at PCG, Tencent.
     <div align="right">-- Summer 2019.</div>
