@@ -30,6 +30,13 @@
 <h3>Publications :memo:</h3>
 <ul>
   <li>
+    <em><strong><a href="https://arxiv.org/abs/2511.16150">Reasoning Guided Embeddings: Leveraging MLLM Reasoning for Improved Multimodal Retrieval</a></strong></em>
+    <br>
+    Chunxu Liu, Jiyuan Yang, <strong>Ruopeng Gao</strong>, Yuhan Zhu, Feng Zhu, Rui Zhao, Limin Wang.
+    <br>
+    Tech report, 2026.
+  </li>
+  <li>
     <em><strong><a href="https://arxiv.org/abs/2503.12562">History-Aware Transformation of ReID Features for Multiple Object Tracking</a></strong></em>
     <br>
     <strong>Ruopeng Gao</strong>, Yuyao Wang, Chunxu Liu, Limin Wang.
@@ -78,7 +85,7 @@
 <ul>
   <li>
     Research Intern, ByteDance.
-    <div align="right">-- Aug 2025 - Present.</div>
+    <div align="right">-- Aug 2025 - Jun 2026.</div>
   </li>
   <li>
     Mini-apps developer at PCG, Tencent.
