@@ -41,7 +41,7 @@
     <br>
     <strong>Ruopeng Gao</strong>, Yuyao Wang, Chunxu Liu, Limin Wang.
     <br>
-    Tech report, 2025.
+    in The 19th European Conference on Computer Vision (<strong>ECCV</strong>), 2026.
   </li>
   <li>
     <em><strong><a href="https://arxiv.org/abs/2403.16848">Multiple Object Tracking as ID Prediction</a></strong></em>
