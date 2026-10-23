@@ -17,10 +17,9 @@
 
 <!-- Introduction -->
 <p>
-  <em><strong> I'm a Ph.D student in <a href="http://mcg.nju.edu.cn/index.html">MCG Group</a>, <a href="https://cs.nju.edu.cn/">Computer Science</a>, <a href="https://www.nju.edu.cn/main.htm">Nanjing University</a>, under the supervision of <a href="https://wanglimin.github.io/">Prof. Limin Wang</a>.</strong></em> 
-  <em>I'm very glad that I'm currently doing a research internship at <a href="https://www.bytedance.com/en/">ByteDance</a>.</em>
-  <em>Before that, I also spent wonderful years as an undergraduate in the Department of Computer Science and Technology, Nanjing University, and received my Bachelor of Science in Jun 2021.</em>
-  <br>
+  <em><strong>I'm a Ph.D. student in <a href="http://mcg.nju.edu.cn/index.html">MCG Group</a>, <a href="https://cs.nju.edu.cn/">Computer Science</a>, <a href="https://www.nju.edu.cn/main.htm">Nanjing University</a>, under the supervision of <a href="https://wanglimin.github.io/">Prof. Limin Wang</a>.</strong></em>
+  <em>I'm currently a research intern at <a href="https://arc.tencent.com/">Tencent ARC Lab</a>. Previously, I was a research intern at <a href="https://www.bytedance.com/en/">ByteDance</a>.</em>
+  <em>I received my Bachelor of Science degree from the Department of Computer Science and Technology at Nanjing University in June 2021.</em>
 </p>
 <p>
   <em>My research interests include <strong>Computer Vision and Deep Learning</strong>. I have a long-standing focus on Multiple Object Tracking, and my current work explores Multimodal Learning and Generative Models.</em><br>
