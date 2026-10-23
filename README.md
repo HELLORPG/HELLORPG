@@ -22,12 +22,19 @@
   <em>I received my Bachelor of Science degree from the Department of Computer Science and Technology at Nanjing University in June 2021.</em>
 </p>
 <p>
-  <em>My research interests include <strong>Computer Vision and Deep Learning</strong>. I have a long-standing focus on Multiple Object Tracking, and my current work explores Multimodal Learning and Generative Models.</em><br>
+  <em>My current research focuses on <strong>Streaming Video Generation and World Models</strong>, with additional interests in Multimodal Understanding. Previously, I worked extensively on Multiple Object Tracking.</em><br>
 <!--   :pushpin: Currently, <strong>I'm seeking research intern opportunities focused on multimodal or generative topics</strong>.</em> -->
 </p>
 
 <h3>Publications :memo:</h3>
 <ul>
+  <li>
+    <em><strong><a href="https://arxiv.org/abs/2610.29989">Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation</a></strong></em>
+    <br>
+    <strong>Ruopeng Gao</strong>, Yukun Huang, Jiarui Hu, Shuai Wang, Wenbo Hu, Ying Shan, Limin Wang.
+    <br>
+    Tech report, 2026.
+  </li>
   <li>
     <em><strong><a href="https://arxiv.org/abs/2503.12562">History-Aware Transformation of ReID Features for Multiple Object Tracking</a></strong></em>
     <br>
